@@ -1,0 +1,82 @@
+@import './base.css';
+h1{
+  font-family: 'ubuntu', sans-serif;
+  font-size: 98px;
+  font-weight: 300;
+  line-height: 81.9%;
+  letter-spacing: -1.5px;
+}
+h2{
+  font-family: 'ubuntu', sans-serif;
+  font-size: 61px;
+  font-weight: 300;
+  letter-spacing: -0.5px;
+}
+h3{
+  font-family: 'ubuntu', sans-serif;
+  font-size: 49px;
+  font-weight: 400;
+}
+h4{
+  font-family: 'ubuntu', sans-serif;
+  font-size: 33px;
+  font-weight: 300;
+  line-height: 109.9%;
+  letter-spacing: 0.25px;
+}
+h5{
+  font-family: 'ubuntu', sans-serif;
+  font-size: 28px;
+  font-weight: 400;
+}
+h6{
+  font-family: 'ubuntu', sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  letter-spacing: 0.15px;
+}
+.subtitle-1{
+  font-family: 'ubuntu', sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  letter-spacing: 0.15px;
+}
+.subtitle-2{
+  font-family: 'ubuntu', sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  letter-spacing: 0.1px;
+}
+.body-2{
+  font-family: 'poppins', sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+  letter-spacing: 0.25px;
+}
+.button{
+  font-family: 'poppins', sans-serif;
+  font-size: 13px;
+  font-weight: 500;
+  letter-spacing: 1.25px;
+  text-transform: uppercase;
+}
+.caption{
+  font-family: 'poppins', sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0.4px;
+  line-height: 124%;
+}
+.overline{
+  font-family: 'poppins', sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+}
+.nav-link-text{
+  font-family: 'ubuntu', sans-serif;
+  font-size: 20px;
+  font-weight: 300;
+  letter-spacing: 0.5px;
+}
